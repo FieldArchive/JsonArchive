@@ -1,14 +1,14 @@
 [
   {
     "title": "博物館 情報 Museum Data",
-    "slag": "museum",
+    "slug": "museum",
     "description": "日本全国、世界各国の博物館を掲載するのが目標",
     "create": "2020/08/30",
     "update": "2020/09/03",
     "contents": [
       {
         "title": "高島屋史料館TOKYO",
-        "slag": "takashimaya-shiryokan-tokyo",
+        "slug": "takashimaya-shiryokan-tokyo",
         "data": [
           {
             "url": "https://www.takashimaya.co.jp/shiryokan/tokyo/",
@@ -40,7 +40,7 @@
       },
       {
         "title": "平洲記念館",
-        "slag": "heishu-kinenkan",
+        "slug": "heishu-kinenkan",
         "data": [
           {
             "url": "http://www.city.tokai.aichi.jp/heishu-kinenkan/",
@@ -71,7 +71,7 @@
       },
       {
         "title": "たばこと塩の博物館",
-        "slag": "toukenmuseum",
+        "slug": "toukenmuseum",
         "data": [
           {
             "url": "https://www.touken.or.jp/museum/",
@@ -102,7 +102,7 @@
       },
       {
         "title": "刀剣博物館",
-        "slag": "toukenmuseum",
+        "slug": "toukenmuseum",
         "data": [
           {
             "url": "https://www.touken.or.jp/museum/",
@@ -133,7 +133,7 @@
       },
       {
         "title": "すみだ北斎美術館",
-        "slag": "hokusaimuseum",
+        "slug": "hokusaimuseum",
         "data": [
           {
             "url": "https://hokusai-museum.jp/",
@@ -164,7 +164,7 @@
       },
       {
         "title": "国立科学博物館",
-        "slag": "kahaku",
+        "slug": "kahaku",
         "data": [
           {
             "url": "http://www.kahaku.go.jp/",
@@ -195,7 +195,7 @@
       },
       {
         "title": "世田谷文学館",
-        "slag": "setabun",
+        "slug": "setabun",
         "data": [
           {
             "url": "https://www.setabun.or.jp/",
@@ -226,7 +226,7 @@
       },
       {
         "title": "東京メガネミュージアム",
-        "slag": "tokyo-megane-museum",
+        "slug": "tokyo-megane-museum",
         "data": [
           {
             "url": "https://www.tokyomegane.co.jp/museum/",
@@ -240,8 +240,8 @@
             "料金体系": "無料",
             "イヤホンガイド": "無",
             "予約の必要": "有（見学の際、スタッフによるガイドがあります。）",
-            "twitter": [],
-            "facebook": [],
+            "twitter": "",
+            "facebook": "",
             "address": [
               {
                 "Country": "Japan",
@@ -257,7 +257,7 @@
       },
       {
         "title": "蘆花記念館",
-        "slag": "roka-memorial-museum",
+        "slug": "roka-memorial-museum",
         "data": [
           {
             "url": "http://www.tokyo-park.or.jp/park/format/index007.html",
@@ -271,10 +271,7 @@
             "料金体系": "無料",
             "イヤホンガイド": "無",
             "予約の必要": "無（団体の場合は有）",
-            "twitter": [
-              "parksroka",
-              "都立蘆花恒春園"
-            ],
+            "twitter": "parksroka",
             "facebook": "",
             "address": [
               {
@@ -291,7 +288,7 @@
       },
       {
         "title": "川崎市平和館",
-        "slag": "kawasakishi-heiwakan",
+        "slug": "kawasakishi-heiwakan",
         "data": [
           {
             "url": "http://www.city.kawasaki.jp/shisetsu/category/21-21-3-0-0-0-0-0-0-0.html",
@@ -305,14 +302,8 @@
             "料金体系": "無料",
             "イヤホンガイド": "有（無料）",
             "予約の必要": "無（団体の場合は有）",
-            "twitter": [
-              "kawasaki_pr",
-              "川崎市シティプロモーション"
-            ],
-            "facebook": [
-              "川崎市人権男女共同参画室kawasaki-gaikok-1222809834484702",
-              "川崎市人権・男女共同参画室"
-            ],
+            "twitter":"kawasaki_pr",
+            "facebook": "川崎市人権男女共同参画室kawasaki-gaikok-1222809834484702",
             "address": [
               {
                 "Country": "Japan",
@@ -328,7 +319,7 @@
       },
       {
         "title": "世田谷区立 平和資料館",
-        "slag": "setagayaku-heiwa-shiryoukan",
+        "slug": "setagayaku-heiwa-shiryoukan",
         "data": [
           {
             "url": "https://www.city.setagaya.lg.jp/mokuji/kusei/002/002/003/001/d00141171.html",
@@ -342,14 +333,8 @@
             "料金体系": "無料",
             "イヤホンガイド": "無",
             "予約の必要": "無（ガイドが必要な場合、団体の場合は有）",
-            "twitter": [
-              "city_setagaya",
-              "世田谷区広報"
-            ],
-            "facebook": [
-              "city.setagaya",
-              "世田谷区"
-            ],
+            "twitter": "city_setagaya",
+            "facebook": "city.setagaya",
             "address": [
               {
                 "Country": "日本",

@@ -1,7 +1,7 @@
 [
   {
     "title": "マツコの知らない世界 番組情報",
-    "slag":"matsuko-no-shiranai-sekai",
+    "slug":"matsuko-no-shiranai-sekai",
     "description": "テレビ番組「マツコの知らない世界」の放映日、出演者、タイトルをまとめています。",
     "create": "2020/8/24",
     "update": "2020/8/27",
